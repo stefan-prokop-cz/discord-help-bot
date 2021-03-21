@@ -15,7 +15,7 @@ You have summoned me. Let's see about getting you what you need.
 => Post in the <#channel_id> channel and other humans will assist you.
 
 ? Looking for the Code of Conduct ?
-=> Here it is: <<https://opensource.facebook.com/code-of-conduct>>
+=> Here it is: <https://opensource.facebook.com/code-of-conduct>
 
 ? Something wrong ?
 => You can flag and admin with <@&role_id>
